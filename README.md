@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
