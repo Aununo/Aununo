@@ -1,11 +1,15 @@
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!"))
+  <img src="https://readme-typing-svg.demolab.com/?lines=print(%22Hello+World!%22)&font=Fira+Code&center=true&width=450&height=50&duration=4000" alt="Typing SVG" />
 </div>
 
 - ✨ I'm interested in **Cryptography** and **Deep Learning**.
 
+<br>
+
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 <picture>
