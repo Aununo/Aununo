@@ -1,12 +1,20 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");console.log("Welcome!")&center=true)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- ✨ I'm interested in **Cryptography** and **Deep Learning**.
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aununo/Aununo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aununo/Aununo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aununo/Aununo/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 <!--
 **Aununo/Aununo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
