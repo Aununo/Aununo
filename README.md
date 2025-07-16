@@ -1,5 +1,5 @@
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!");console.log("Welcome!")&center=true)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World!"))
 </div>
 
 - ✨ I'm interested in **Cryptography** and **Deep Learning**.
