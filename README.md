@@ -5,7 +5,7 @@
 ## About Me
 
 - 💬 An ordinary, life-loving undergraduate student.
-- ✨ Interested in *Programming Language*, *Network Security* and *LLM*.
+- ✨ Interested in *Programs*, *Network Security* and *LLM*.
 
 <br>
 
