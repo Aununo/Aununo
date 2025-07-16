@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=print(%22Hello+World!%22)&font=Fira+Code&center=true&width=450&height=50&duration=4000" alt="Typing SVG" />
 </div>
 
-- ✨ I'm interested in **Cryptography** and **Deep Learning**.
+## About Me
+
+- 💬 An ordinary, life-loving undergraduate student.
+- ✨ Interested in **Cryptography** and **Deep Learning**.
 
 <br>
 
