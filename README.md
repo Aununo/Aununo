@@ -10,10 +10,25 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
+  <picture>
+    <!-- 深色模式使用 radical -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- 浅色模式使用 default -->
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- 默认显示（浅色模式） -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" 
+      alt="Top Languages"
+    />
+  </picture>
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aununo/Aununo/output/github-contribution-grid-snake-dark.svg">
