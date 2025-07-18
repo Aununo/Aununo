@@ -11,19 +11,19 @@
 
 <div align="center">
   <picture>
-    <!-- 深色模式使用 radical -->
+    <!-- 深色模式 -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical&exclude_repo=Aununo.github.io" 
       media="(prefers-color-scheme: dark)"
     />
-    <!-- 浅色模式使用 default -->
+    <!-- 浅色模式 -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=default&exclude_repo=Aununo.github.io" 
       media="(prefers-color-scheme: light)"
     />
-    <!-- 默认显示（浅色模式） -->
+    <!-- 默认显示 -->
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical&exclude_repo=Aununo.github.io" 
       alt="Top Languages"
     />
   </picture>
