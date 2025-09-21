@@ -17,15 +17,15 @@
       <td valign="top" align="right">
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=transparent&exclude_repo=Aununo.github.io" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=transparent&cache_bust=1&exclude_repo=Aununo.github.io" 
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=default&exclude_repo=Aununo.github.io" 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=default&cache_bust=1&exclude_repo=Aununo.github.io" 
             media="(prefers-color-scheme: light)"
           />
           <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical&exclude_repo=Aununo.github.io" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aununo&layout=compact&theme=radical&cache_bust=1&exclude_repo=Aununo.github.io" 
             alt="Top Languages"
           />
         </picture>
